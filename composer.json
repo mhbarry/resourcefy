@@ -1,5 +1,6 @@
 {
     "version": "1.0",
+    "licence": "MIT",
     "name": "mhbarry/resourcefy",
     "description": "Easy app builder",
     "license": "license",
@@ -7,7 +8,7 @@
         {
             "name": "Mamadou Hady Barry",
             "email": "seidya.dev.mhb@gmail.com",
-            "homepage": "author homepage"
+            "homepage": "https://github.com/mhbarry/resourcefy"
         }
     ],
     "homepage": "https://github.com/laranuxt/resourcefy",
